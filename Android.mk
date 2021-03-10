@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GCam
+LOCAL_MODULE := GcamGuacamole
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := GCam_7.3.018_Urnyx05-v2.1_Wichaya_V3.1.1_snapcam.apk
 LOCAL_CERTIFICATE := PRESIGNED
